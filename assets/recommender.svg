@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 440" role="img" aria-labelledby="title desc"><title id="title">The cost of a discovery slot</title><desc id="desc">Recall at ten falls from 0.3604 to 0.3470 when one slot is reserved for a new item. The percentage of shoppers shown a new item rises from 6.66 to 99.96 percent.</desc><rect width="880" height="440" rx="12" fill="#f1f4ef"/><g font-family="Arial,sans-serif" fill="#243c32">
+<text x="44" y="55" font-size="14" letter-spacing="2">THE PRODUCT DECISION BEHIND THE RANKER</text>
+<text x="44" y="110" font-size="29">What is one discovery slot worth?</text>
+<rect x="44" y="150" width="376" height="178" rx="8" fill="white"/><text x="68" y="191" font-size="18">No reserved slot</text><text x="68" y="249" font-size="44">0.3604</text><text x="68" y="286" font-size="16" fill="#65766b">recall@10 · 6.66% see a new item</text>
+<rect x="438" y="150" width="398" height="178" rx="8" fill="#2f5542"/><text x="462" y="191" font-size="18" fill="white">One reserved slot</text><text x="462" y="249" font-size="44" fill="white">0.3470</text><text x="462" y="286" font-size="16" fill="#dae5d8">recall@10 · 99.96% see a new item</text>
+<text x="44" y="385" font-size="18">Offline evidence prices the tradeoff. An online test must decide the value.</text></g></svg>

@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 440" role="img" aria-labelledby="title desc"><title id="title">Pattern matching needs context</title><desc id="desc">A scan flows through a context engine, then to an auditable decision. Machine learning is an advisory signal.</desc><rect width="880" height="440" rx="12" fill="#f1f4ef"/><g font-family="Arial,sans-serif" fill="#243c32">
+<text x="44" y="55" font-size="14" letter-spacing="2">A PRIVACY DECISION NEEDS CONTEXT</text>
+<rect x="44" y="105" width="210" height="116" rx="8" fill="white"/><text x="68" y="144" font-size="23">Scan</text><text x="68" y="177" font-size="16" fill="#65766b">What is in this file?</text>
+<path d="M268 162h36m-9-7 9 7-9 7" stroke="#6b8774" fill="none" stroke-width="2"/>
+<rect x="320" y="105" width="240" height="116" rx="8" fill="#2f5542"/><text x="344" y="144" fill="white" font-size="23">Context engine</text><text x="344" y="177" fill="#d5e0d5" font-size="16">Who does the data describe?</text>
+<path d="M574 162h36m-9-7 9 7-9 7" stroke="#6b8774" fill="none" stroke-width="2"/>
+<rect x="626" y="105" width="210" height="116" rx="8" fill="white"/><text x="650" y="144" font-size="23">Decision + reason</text><text x="650" y="177" font-size="16" fill="#65766b">One verdict per file</text>
+<path d="M440 240v42" stroke="#8b9a8b" stroke-dasharray="5 5" stroke-width="2"/><rect x="320" y="292" width="240" height="65" rx="8" fill="#e0e8db"/><text x="347" y="331" font-size="18">ML score · advisory only</text>
+<text x="44" y="405" font-size="14" fill="#65766b">Reconstructed schematic. No internal systems or data shown.</text></g></svg>
