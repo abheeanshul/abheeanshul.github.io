@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500"><title>Next basket receipt</title>
+<rect width="800" height="500" fill="#e9e0d1"/>
+<g transform="translate(205 34) rotate(-4 210 250)">
+<polygon points="0,0 420,0 420,560 0,560 20,572 40,560 60,572 80,560 100,572 120,560 140,572 160,560 180,572 200,560 220,572 240,560 260,572 280,560 300,572 320,560 340,572 360,560 380,572 400,560 420,572 0,560" fill="#000" opacity=".10" transform="translate(8 10)"/>
+<polygon points="0,0 420,0 420,560 0,560 20,572 40,560 60,572 80,560 100,572 120,560 140,572 160,560 180,572 200,560 220,572 240,560 260,572 280,560 300,572 320,560 340,572 360,560 380,572 400,560 420,572 0,560" fill="#fffdf8"/>
+<g font-family="'Courier New',Courier,monospace" font-size="22" fill="#2b2f2d" transform="translate(26 0)">
+<text x="184" y="58" text-anchor="middle" font-size="30" font-weight="700" letter-spacing="3">NEXT BASKET</text>
+<text x="184" y="90" text-anchor="middle" font-size="18" fill="#6b706d">top 10 for one shopper</text>
+<text x="0" y="128" fill="#9aa09c">- - - - - - - - - - - - - - -</text>
+<text x="0" y="176">Banana</text><text x="368" y="176" text-anchor="end" fill="#8a8f8c">repeat</text><text x="0" y="220">Organic Strawberries</text><text x="368" y="220" text-anchor="end" fill="#8a8f8c">repeat</text><text x="0" y="264">Organic Baby Spinach</text><text x="368" y="264" text-anchor="end" fill="#8a8f8c">repeat</text><text x="0" y="308">Large Lemon</text><text x="368" y="308" text-anchor="end" fill="#8a8f8c">repeat</text><text x="0" y="352">Organic Whole Milk</text><text x="368" y="352" text-anchor="end" fill="#8a8f8c">repeat</text><rect x="-8" y="370" width="384" height="36" fill="#f6dd74" opacity=".85" rx="3" transform="rotate(-.6 180 396)"/><text x="0" y="396" font-weight="700">+ Organic Hass Avocado</text><text x="368" y="396" text-anchor="end" font-weight="700">NEW</text>
+</g></g></svg>
