@@ -23,3 +23,5 @@ body{font-size:17px;line-height:1.7}.shell{max-width:1000px}.topbar{border:0;pad
 
 .topbar nav{margin-left:auto}
 .group-title{font-size:16px;font-weight:500;color:var(--muted);margin:0 0 12px}.project-group+.project-group{margin-top:34px}
+body{text-transform:lowercase}.personal-home h2,.eyebrow,.article-meta span,.article-bottom span,.prose-section h2{text-transform:uppercase}.prose-section h2{font-size:14px;font-weight:600;letter-spacing:1.6px;color:var(--ink);margin-bottom:16px}.takeaway strong{font-weight:600}
+.takeaway{border-left:0;padding:0;color:var(--ink)}.company-link{text-transform:none}
